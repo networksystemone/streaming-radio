@@ -1,0 +1,5 @@
+ErrorDocument 404 /404.php
+ErrorDocument 403 /403.php
+Options All -Indexes
+DirectoryIndex index.php
+php_value disable_functions phpinfo
