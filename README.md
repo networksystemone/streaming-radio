@@ -27,9 +27,11 @@ edit config/config.php file
 
 
 Demo
-url:http://radio.csi-ensi.tn/index.php
-Login:testtest
-password:testtest
+	url:http://radio.csi-ensi.tn/index.php
+
+	Login:testtest
+
+	password:testtest
 
 
 
